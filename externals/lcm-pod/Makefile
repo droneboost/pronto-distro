@@ -1,5 +1,7 @@
-DL_FILE := lcm-1.0.0.tar.gz
-DL_LINK := http://lcm.googlecode.com/files/
+#DL_FILE := lcm-1.0.0.tar.gz
+#DL_LINK := http://lcm.googlecode.com/files/
+DL_FILE := v1.0.0.tar.gz
+DL_LINK := https://github.com/lcm-proj/lcm/archive/
 UNZIP_DIR := lcm-1.0.0
 
 all: $(UNZIP_DIR)/Makefile
